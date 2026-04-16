@@ -14,8 +14,12 @@ Identify trends, patterns, and data quality issues
 **🛠️ Tools & Technologies**
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+
 SQL (Joins, Aggregations, Filtering, Data Manipulation)
+
 Microsoft Excel (Pivot Tables, Conditional Formatting, Dashboarding)
+
 Power BI (Interactive Dashboards & Visualizations)
 
 **Project Workflow**
