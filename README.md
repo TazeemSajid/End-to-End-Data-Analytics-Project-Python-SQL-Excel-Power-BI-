@@ -1,29 +1,29 @@
-# End-to-End-Data-Analytics-Project-Python-SQL-Excel-Power-BI-
-**Overview**
+# 📈 Crypto Market — End-to-End Data Analytics Project
+### Python | SQL | Excel | Power BI
 
-This project demonstrates a complete data analysis workflow using multiple tools including Python, SQL, Excel, and Power BI. The objective was to work with real-world data, perform exploratory data analysis (EDA), clean and transform data, apply statistical techniques, and build interactive dashboards to generate actionable insights.
+---
 
-**Objectives**
+## 🧭 Project Overview
+A complete end-to-end data analytics project analyzing 
+cryptocurrency market data using industry-standard tools.
+Covers the full analytics workflow from raw data to 
+interactive business dashboard.
 
-Perform end-to-end data analysis using industry-relevant tools
-Clean and preprocess raw data for accurate analysis
-Apply statistical methods to understand data distribution
-Build dashboards and reports for business insights
-Identify trends, patterns, and data quality issues
+## 🛠️ Tools & Technologies
+| Tool | Purpose |
+|------|---------|
+| Python (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning & EDA |
+| SQL | Database queries & data manipulation |
+| Microsoft Excel | Pivot tables & dashboard |
+| Power BI | Interactive crypto dashboard |
 
-**🛠️ Tools & Technologies**
+## 📊 Project Workflow
+1. **Python** → Data cleaning, EDA, statistical analysis, outlier detection
+2. **SQL** → Joins, aggregations, filtering, data manipulation
+3. **Excel** → Pivot tables, conditional formatting, dashboard
+4. **Power BI** → Interactive KPI dashboard
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-
-SQL (Joins, Aggregations, Filtering, Data Manipulation)
-
-Microsoft Excel (Pivot Tables, Conditional Formatting, Dashboarding)
-
-Power BI (Interactive Dashboards & Visualizations)
-
-**Project Workflow**
-
+   
 **1️⃣ Data Analysis using Python**
 
 Loaded dataset in Jupyter Notebook
@@ -101,12 +101,14 @@ Excel Analysis & Dashboard
 SQL Queries (Screenshots / Document)
 Power BI Dashboard File
 
-**🚀 Skills Demonstrated**
-
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Statistical Analysis
-SQL Querying & Data Manipulation
-Dashboard Development
+## 🚀 Skills Demonstrated
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis (Mean, Median, Variance, SD)
+- Outlier Detection using Boxplots
+- SQL Querying & Data Manipulation
+- Excel Dashboard Development
+- Power BI Interactive Dashboard
+- Business Insight Generation
 Data Visualization
 Business Insight Generation
